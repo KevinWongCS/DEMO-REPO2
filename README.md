@@ -15,3 +15,6 @@ desc2: from tutorial ![freeCodeCamp.org](https://www.youtube.com/watch?v=RGOj5yH
 * git push origin master won't work because we created repository locally
    * error: error: src refspec master does not match any
    * error: failed to push some refs to 'origin'
+   * HAVE TO ADD AN ORIGIN!!!
+* git remote add origin <link to your repository>
+
