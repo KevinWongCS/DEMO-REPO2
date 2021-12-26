@@ -17,4 +17,8 @@ desc2: from tutorial ![freeCodeCamp.org](https://www.youtube.com/watch?v=RGOj5yH
    * error: failed to push some refs to 'origin'
    * HAVE TO ADD AN ORIGIN!!!
 * git remote add origin <link to your repository>
+   * git remote -v to check origins connected to current repository
+   * $ git remote remove origin removes origin if needed
+
+
 
